@@ -12,4 +12,4 @@ En este repositorio contendra los resultados de las prácticas de la materia par
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
 |1.|[Introducción al uso de Python en el Ánalisis de Datos](/Practica02/Practica_230550.ipynb)|37|Revisada|
-|1.|[Analisis Exploratorio de Datos con Python y Jupyter usando un Dataset  de Amazon Store](/Practica04/Practica04_230550.ipynb)|16|Revisada|
+|1.|[Analisis Exploratorio de Datos con Python y Jupyter usando un Dataset  de Amazon Store](/practica04/Practica04_230550.ipynb)|16|Revisada|
